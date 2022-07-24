@@ -1,30 +1,14 @@
 <h1> Hi there, I'm Mahir! </h1>
-<p>I'm a Passionate and Seasoned Data Scientist having 4 years of experience in handling Data Science Projects end to end from Ideation to Deployment phase.</p>
+<p>Lead Data Scientist with over 5 years of experience working on challenging, high impact projects in the area of Natural
+Language Processing, Machine Learning. Areas of expertise include leading teams, building scalable models, micro-services as
+per latency requirements. Driven by passion and ambition, I get excited at the prospect of working with a lot of data, deploying
+models for millions of users.</p>
 <p>
 <ul>
-  <li>Currently, I'm working as a Data Scientist at United Health Group.</li>
+  <li>Currently, I'm working as a Lead Data Scientist at Simpplr.</li>
   <li>When I'm not working, I like to explore other NLP Use Cases on my Deep Learning Rig. </li>
 </ul>
 </p>
-<p>As of now, I'm working on 4 side projects -</p>
-<ol>
-  <li>Pretraining Language Models from Scratch on Cord19</li>
-  <li>Information Retrieval via a combination of a Bi-Encoder(BM25/Embeddings) and a Reranker(Cross Encoders).</li>
-  <li>Building a Crawler for Financial News Articles.</li>
-  <li>Summarization of Arxiv Research Papers.</li>
-</ol>
-<h2><b>Skills</b><br></h2>
-<p>
-<b>NLP</b> - Text Classification, Topic Modelling, Transfer Learning, Information Retrieval, NER, Document Classification, Document Ranking, Text Extraction 
-<br>
-<b>Predictive Modelling</b> - Linear Regression, Logistic Regression, Random Forest, Gradient Boosting
-<br>
-<b>Frameworks</b> – Pytorch, Tensorflow, Keras, Scikit Learn<br>
-<b>Cloud</b> – AWS, Google Cloud, Azure<br>
-<b>Web Frameworks</b> – Flask<br>
-<b>Languages</b> – Python, SQL, C++<br>
-</p>
-
 <h2> Contact Me </h2>
 
 <p> You can reach me at <a href="https://www.linkedin.com/in/mahir-kukreja-103819118/">LinkedIn</a> or at mahirkukreja@gmail.com.</p>
