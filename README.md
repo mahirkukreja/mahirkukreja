@@ -1,5 +1,5 @@
 <h1> Hi there, I'm Mahir! </h1>
-<p>Lead Data Scientist with over 5 years of experience working on challenging, high impact projects in the area of Natural
+<p>Lead Data Scientist with 7 years of experience working on challenging, high impact projects in the area of Natural
 Language Processing, Machine Learning. Areas of expertise include leading teams, building scalable models, micro-services as
 per latency requirements. Driven by passion and ambition, I get excited at the prospect of working with a lot of data, deploying
 models for millions of users.</p>
